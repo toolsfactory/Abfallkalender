@@ -16,7 +16,7 @@
             "env": {},
             "args": [
                 "next",
-                "${workspaceRoot}/Abfuhrkalender-Putzbrunn-2018.ics"
+                "${workspaceRoot}/sample.ics"
             ],
             "envFile": "${workspaceRoot}/.env",
             "debugOptions": [
